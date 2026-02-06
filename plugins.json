@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Urip Provider",
+    "internalName": "UripProvider",
+    "url": "https://file.uripsub.dev/api/public/dl/56zhFOGF",
+    "icon": "https://static.thenounproject.com/png/126719-200.png",
+    "version": 1,
+    "description": "Watch movies from uripsub.dev",
+    "authors": ["Urip Subekti"],
+    "language": "en",
+    "types": ["Movies", "TV"]
+  }
+]
