@@ -2,7 +2,7 @@
   {
     "name": "Urip Provider",
     "internalName": "UripProvider",
-    "url": "https://raw.githubusercontent.com/subekti404dev/skystream_repo/refs/heads/main/plugin.sky",
+    "url": "https://github.com/subekti404dev/skystream_repo/raw/refs/heads/main/plugin.sky",
     "icon": "https://static.thenounproject.com/png/126719-200.png",
     "version": 1,
     "description": "Watch movies from uripsub.dev",
