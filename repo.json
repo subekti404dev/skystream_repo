@@ -4,6 +4,6 @@
   "description": "A collection of my custom plugins",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://file.uripsub.dev/api/public/dl/nf2Op-3b"
+    "https://raw.githubusercontent.com/subekti404dev/skystream_repo/refs/heads/main/plugins.json"
   ]
 }
