@@ -1,0 +1,9 @@
+{
+  "name": "Urip Repository",
+  "id": "dev.uripsub.skystream-repo",
+  "description": "A collection of my custom plugins",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://file.uripsub.dev/api/public/dl/nf2Op-3b"
+  ]
+}
