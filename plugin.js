@@ -8,7 +8,7 @@ function getManifest() {
     // ID must be unique and consistent! 
     // It is used to match updates and persist data. 
     // Format: com.yourname.providername
-    return { name: "Urip Provider", id: "com.uripsub.uripskyprovider", version: 1, baseUrl: mainUrl };
+    return { name: "Urip Provider", id: "com.uripsub.uripskyprovider", version: 1, baseUrl: "https://stremio-urip-addon.vercel.app" };
 }
 
 function getHome(callback) {
