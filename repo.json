@@ -1,6 +1,6 @@
 {
   "name": "Urip Repository",
-  "id": "dev.uripsub.skystream-repo",
+  "id": "com.uripsub.uripskyrepo",
   "description": "A collection of my custom plugins",
   "manifestVersion": 1,
   "pluginLists": [
